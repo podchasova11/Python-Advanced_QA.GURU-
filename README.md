@@ -1,5 +1,6 @@
 ### QA_Guru
 
+
 Pазработка микросервисов на Python 
 - FastAPI,
 - Docker,
